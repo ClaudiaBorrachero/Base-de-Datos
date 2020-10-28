@@ -1,0 +1,18 @@
+id_jugador;nombre;apellido;posicion;id_capitan;fecha_alta;salario;equipo;altura
+1;Juan Carlos;Navarro;escolta;1;10-ene-10;130000;1;1,96
+2;Felipe;Reyes;Pivot;2;20-feb-09;132000;2;2,04
+3;Victor;Claver;Alero;3;08-mar-09;99000;3;2,08
+4;Rafa;Martinez;ala-pivot;4;11-nov-10;51000;3;1,91
+5;Fernando;San Emeterio;Alero;6;22-sep-08;60000;4;1,99
+6;Mirza;Teletovic;Pivot;6;13-may-10;77000;4;2,06
+7;Sergio;Llull;Escolta;2;29-oct-11;100000;2;1,9
+8;Victor;Sada;Base;1;01-ene-12;80000;1;1,92
+9;Carlos;Suarez;Alero;2;19-feb-11;66000;2;2,03
+10;Xavi;Rey;Pivot;14;12-oct-08;104500;5;2,09
+11;Carlos;Cabezas;Base;13;21-ene-12;105000;6;1,86
+12;Pablo;Aguilar;Alero;13;14-jun-11;51700;6;2,03
+13;Rafa;Hettsheimeir;Pivot;13;15-abr-08;58300;6;2,08
+14;Sitapha;Savané;Pivot;14;27-jul-11;66000;5;2,01
+15;anonimo;anonimo;Ala-pivot;2;01-ene-12;4000;3;2
+22;j1;;;;;;2;2
+23;j2;;;;;;2;
